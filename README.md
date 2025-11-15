@@ -71,15 +71,16 @@ I’ve worked as a programming instructor, helping learners build strong fundame
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahmoudSaaadallah&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mahmoudSaaadallah&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudSaaadallah&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=mahmoudSaaadallah&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mahmoudSaaadallah&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudSaaadallah&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mahmoudSaaadallah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahmoudSaaadallah&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mahmoudSaaadallah&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mahmoudSaaadallah&icon=0&color=0)](https://visitcount.itsvg.in)
